@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f6f8;
+  }
+  
+  .MuiPaper-root {
+    border-radius: 8px;
+  }
+  
+  .MuiTypography-h4 {
+    font-weight: 600;
+  }
+  
+  .MuiTypography-h6 {
+    font-weight: 500;
+  }
+  
